@@ -1,7 +1,7 @@
 ### Hi there👋  
 Electronics and Communication Engineering Student at Istanbul Technical University
 <br/>
-📫 [You can reach me at this e-mail address](mailto:alim.sahin@itublockchain.com)
+📫 [You can reach me at this e-mail address](mailto:alimsahin0007@gmail.com)
 <br/>
 ✨ I'm board member of @ITUblockchain, Turkey's first and biggest university blockchain society <br/>
 🔭 I’m currently developing full stack blockchain projects. <br/>
