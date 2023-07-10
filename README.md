@@ -1,9 +1,6 @@
 ### Hi there👋  
-<br/>
-📫  [You can reach me at this e-mail address](mailto:alimsahin0007@gmail.com)
-<br/>
 
-#### Languages and Tools:
+I will update here. You can check [my website](htttps://aalimsah.in) to reach me.
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1257px-Ethereum_logo_2014.svg.png" alt="Ethereum" height="40" style="vertical-align:top; margin:4px">
 </p>
