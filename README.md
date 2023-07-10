@@ -1,6 +1,6 @@
 ### Hi there👋  
 <br/>
-📫 [You can reach me at this e-mail address](mailto:alimsahin0007@gmail.com)
+📫  [You can reach me at this e-mail address](mailto:alimsahin0007@gmail.com)
 <br/>
 
 #### Languages and Tools:
