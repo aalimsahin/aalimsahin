@@ -6,4 +6,4 @@ I'm a blockchain enthusiast. I'm always looking to build something innovative an
 
 Got something cool in mind? Let's connect! You can check [my website](https://aalimsah.in) to reach me.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=highcontrast)](https://git.io/streak-stats)
+[![github activity](https://github-readme-activity-graph.vercel.app/graph?username=aalimsahin&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
