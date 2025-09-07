@@ -6,3 +6,9 @@ I'm a blockchain enthusiast. I'm always looking to build something innovative an
 
 
 Got something cool in mind? Let's connect! You can check [my website](https://aalimsah.in) to reach me.
+
+<br/>
+
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/fun.svg)
+    
+
